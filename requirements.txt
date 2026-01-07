@@ -2,7 +2,4 @@ streamlit
 scikit-learn
 pandas
 numpy 
-python
-matplotlib
-seaborn
 joblib
