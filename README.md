@@ -18,7 +18,7 @@ from data preprocessing → model training → evaluation → deployment.**
 
 **🌐 Live Application:** https://loan-approval-app-app-sxta7dsx6esbhalqxmgphe.streamlit.app/
 
-**💻 GitHub Repository:** Add your repo link here
+**💻 GitHub Repository:** https://github.com/SumitGupta-ai/loan-approval-streamlit-app
 
 ---
 
@@ -66,28 +66,14 @@ from data preprocessing → model training → evaluation → deployment.**
 
 ---
 📂 Project Structure
+
 loan-approval-streamlit-app/
 │
-├── bank_loan_app.py          # Streamlit web application
-├── Loan_Approval_RF.pkl      # Trained Random Forest model
-├── requirements.txt          # Project dependencies
-├── README.md                 # Project documentation
-└── notebooks/                # Model training & experiments
-
---
-
-## ⚙️ How to Run Locally
-
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/loan-approval-streamlit-app.git
-cd loan-approval-streamlit-app
-
----
-2️⃣ Install Required Libraries
-pip install -r requirements.txt
-
-3️⃣ Run the Application
-streamlit run bank_loan_app.py
+├── bank_loan_app.py          
+├── Loan_Approval_RF.pkl      
+├── requirements.txt          
+├── README.md                 
+└── notebooks/
 
 ---
 ✨ Key Features
