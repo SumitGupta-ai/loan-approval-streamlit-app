@@ -1,4 +1,4 @@
- # 🏦 Loan Approval Prediction Web Application
+# 🏦 Loan Approval Prediction Web Application
 ---
 ## 📌 Project Overview
 
@@ -16,50 +16,124 @@ from data preprocessing → model training → evaluation → deployment.**
 
 ## 🚀 Live Demo
 
-🌐 Live Application: Add your Streamlit app link here
+**🌐 Live Application:** https://loan-approval-app-app-sxta7dsx6esbhalqxmgphe.streamlit.app/
 
-💻 GitHub Repository: Add your repo link here
+**💻 GitHub Repository:** Add your repo link here
 
 ---
 
 ## 🧠 Machine Learning Details
 
-Problem Type: Binary Classification
+- Problem Type: Binary Classification
 
-Target Variable: Loan Approval Status
+- Target Variable: Loan Approval Status
 
-Algorithm Used: Random Forest Classifier
+- Algorithm Used: Random Forest Classifier
 
 ## 📊 Model Performance
 
-✅ Accuracy: ~91%
+- ✅ Accuracy: ~91%
 
-✅ ROC-AUC Score: ~96%
+- ✅ ROC-AUC Score: ~96%
 
-✅ Evaluation Metrics Used:
+- ✅ Evaluation Metrics Used:
 
-Accuracy Score
+- Accuracy Score
 
-ROC-AUC
+- ROC-AUC
 
-Confusion Matrix (during training)
+- Confusion Matrix (during training)
 
 ---
 
 ## 🛠️ Technology Stack
 
-Programming Language: Python
+- Programming Language: Python
 
-Libraries & Frameworks:
+- Libraries & Frameworks:
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Scikit-learn
+- Scikit-learn
 
-Streamlit
+- Streamlit
 
-Version Control: Git & GitHub
+- Version Control: Git & GitHub
 
-Deployment Platform: Streamlit Cloud
+- Deployment Platform: Streamlit Cloud
+
+---
+📂 Project Structure
+loan-approval-streamlit-app/
+│
+├── bank_loan_app.py          # Streamlit web application
+├── Loan_Approval_RF.pkl      # Trained Random Forest model
+├── requirements.txt          # Project dependencies
+├── README.md                 # Project documentation
+└── notebooks/                # Model training & experiments
+
+--
+
+## ⚙️ How to Run Locally
+
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/loan-approval-streamlit-app.git
+cd loan-approval-streamlit-app
+
+---
+2️⃣ Install Required Libraries
+pip install -r requirements.txt
+
+3️⃣ Run the Application
+streamlit run bank_loan_app.py
+
+---
+✨ Key Features
+
+🔹 Interactive user input form
+
+🔹 Real-time loan approval prediction
+
+🔹 Pre-trained ML model integration
+
+🔹 Clean & user-friendly interface
+
+🔹 Fully deployed on cloud
+
+---
+🔮 Future Enhancements
+
+- Add probability-based threshold control
+
+- Display feature importance visualization
+
+- Support multiple ML models comparison
+
+- Improve UI with charts and explanations
+
+- Add robust input validation
+---
+
+## 👤 Author
+
+Sumit Gupta
+Aspiring AI / Machine Learning Engineer
+
+🔗 GitHub: https://github.com/SumitGupta-ai
+
+🔗 LinkedIn: https://www.linkedin.com/in/sumit-gupta-48a28a344/
+
+---
+## ⭐ Acknowledgements
+
+- Scikit-learn Documentation
+
+- Streamlit Community
+
+- Open-source Machine Learning Resources
+
+---
+
+⭐ If you found this project useful, don’t forget to star the repository!
