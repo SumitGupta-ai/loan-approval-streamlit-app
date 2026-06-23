@@ -65,7 +65,7 @@ from data preprocessing → model training → evaluation → deployment.**
 - Deployment Platform: Streamlit Cloud
 
 ---
-📂 Project Structure
+## 📂 Project Structure
 
 loan-approval-streamlit-app/
 │
@@ -89,7 +89,7 @@ loan-approval-streamlit-app/
 🔹 Fully deployed on cloud
 
 ---
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 - Add probability-based threshold control
 
