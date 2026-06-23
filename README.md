@@ -76,7 +76,7 @@ loan-approval-streamlit-app/
 └── notebooks/
 
 ---
-✨ Key Features
+## ✨ Key Features
 
 🔹 Interactive user input form
 
