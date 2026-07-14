@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 - End-to-end Machine Learning web application
-
+- 
 - Predicts whether a loan will be Approved or Rejected
 
 - Built using a Random Forest Classifier
@@ -105,7 +105,7 @@ loan-approval-streamlit-app/
 ## 👤 Author
 
 Sumit Gupta
-Aspiring AI / Machine Learning Engineer
+Aspiring AI Machine Learning Engineer
 
 🔗 GitHub: https://github.com/SumitGupta-ai
 
