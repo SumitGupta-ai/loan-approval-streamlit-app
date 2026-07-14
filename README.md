@@ -105,7 +105,7 @@ loan-approval-streamlit-app/
 ## 👤 Author
 
 Sumit Gupta
-Aspiring AI Machine Learning Engineer
+Aspiring AI / Machine Learning Engineer
 
 🔗 GitHub: https://github.com/SumitGupta-ai
 
