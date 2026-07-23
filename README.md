@@ -6,7 +6,7 @@
 - 
 - Predicts whether a loan will be Approved or Rejected
 
-- Built using a Random Forest Classifier
+- Built using a Random Forest Classifiers
 
 - Deployed as an interactive web app on Streamlit Cloud
 
