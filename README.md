@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction Web Application
+# 🏦 Loan Approval Prediction Web Applications
 ---
 ## 📌 Project Overviews
 
