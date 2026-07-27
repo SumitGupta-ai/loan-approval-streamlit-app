@@ -1,6 +1,6 @@
 # 🏦 Loan Approval Prediction Web Application
 ---
-## 📌 Project Overview
+## 📌 Project Overviews
 
 - End-to-end Machine Learning web application
 - 
